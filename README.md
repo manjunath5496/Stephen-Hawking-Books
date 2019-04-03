@@ -45,4 +45,16 @@
                 <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/pdf40.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                      
                 
 16. A Briefer History of Time </br>
-                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/pdf43.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                
+                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/pdf43.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>  
+                
+17. Hawking on the Big Bang and Black Holes </br>
+                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/cbs8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                  
+                
+                
+                
+                
+                
+                
+                
+                
+                
