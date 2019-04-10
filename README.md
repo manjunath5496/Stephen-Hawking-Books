@@ -50,8 +50,14 @@
 17. Hawking on the Big Bang and Black Holes </br>
                 <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/cbs8.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>                  
                 
+18. God Created the Integers: The Mathematical Breakthroughs That Changed History </br>
+                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/un125.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>  
                 
-                
+19. On the Shoulders of Giants: The Great Works of Physics and Astronomy </br>
+                <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/un126.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>  
+ 
+ 
+        
                 
                 
                 
