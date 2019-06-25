@@ -75,7 +75,7 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/hl(6).pdf" style="text-decoration:none;">The Beginning of Time </a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/hl(7).pdf" style="text-decoration:none;">The Origin of the Universe </a></b></li>                                
                                 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/hl(8).pdf" style="text-decoration:none;">Strings, Conformal Fields, and M -Theory</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/hl(8).pdf" style="text-decoration:none;">Do black holes have no hair?</a></b></li>
 
 
 </ul>                    
