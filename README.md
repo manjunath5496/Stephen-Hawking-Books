@@ -1,6 +1,6 @@
  
   <p><strong>Books:</strong></p>
-<p><strong>_________________________________________________________________________________________________________________________</strong></p>
+<hr>
 
 1. Properties of Expanding Universes</br>
                 <a href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/p282.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
@@ -62,7 +62,7 @@
  </br>
  
   <p><strong>Lectures:</strong></p>
-<p><strong>_________________________________________________________________________________________________________________________</strong></p>
+<hr>
 <ul>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Stephen-Hawking-Books/blob/master/hl(1).pdf" style="text-decoration:none;">Does God play Dice? </a></b></li>
   
